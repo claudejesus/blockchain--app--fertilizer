@@ -1,0 +1,16 @@
+1. Create your Hardhat project
+
+mkdir fertilizer-tracker
+cd fertilizer-tracker
+npm init -y
+npm install --save-dev hardhat
+npx hardhat
+
+2. Install required dependencies
+------------------------------------
+npm install --save-dev @nomicfoundation/hardhat-toolbox
+
+
+
+
+
